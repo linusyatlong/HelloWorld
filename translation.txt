@@ -1,4 +1,7 @@
 << Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved >> 
+<< Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved >> 
+<< Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved >> 
+<< Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved >> 
 Please enter a valid plan type name = ??????????
 Number of rows and columns should be positive = ?????????
 Please enter a valid room length = ??????????
